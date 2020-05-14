@@ -1,7 +1,7 @@
 class Chatty_student < Student
   
  def hello
-   "Hey there! I'm so excited to learn stuff."
+   puts "Hey there! I'm so excited to learn stuff."
   end
   
 end
